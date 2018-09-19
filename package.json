@@ -1,0 +1,22 @@
+{
+  "name": "playground_stuff_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolodziejczakM/playground_stufff.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kolodziejczakM/playground_stufff/issues"
+  },
+  "homepage": "https://github.com/kolodziejczakM/playground_stufff#readme",
+  "dependencies": {
+    "xliff_to_json_converter": "0.0.7"
+  }
+}
